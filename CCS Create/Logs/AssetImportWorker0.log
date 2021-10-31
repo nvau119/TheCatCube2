@@ -273,3 +273,75 @@ Received Import Request.
 Start importing Assets/BowPlaceholder.png using Guid(d2a0ac7f5c43a2a4b91a30bdaf00bdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a124b10ed964d3478c441c98262e252e') in 0.014053 seconds 
   Import took 0.020485 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 225.526059 seconds.
+  path: Assets/ArrowPlaceholder.asset
+  artifactKey: Guid(c2fa853d839ac1b4a86a1aa878ad20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArrowPlaceholder.asset using Guid(c2fa853d839ac1b4a86a1aa878ad20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcbe5f0aa188439ef615608e2f23348f') in 0.009028 seconds 
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/BowPlaceholder.asset
+  artifactKey: Guid(701fb72226452ae40b5670fb926ef1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BowPlaceholder.asset using Guid(701fb72226452ae40b5670fb926ef1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d3f145832b6cfa2b89486687277b56') in 0.003443 seconds 
+  Import took 0.009548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.800706 seconds.
+  path: Assets/ArrowPlaceholder.png
+  artifactKey: Guid(ecd90dff210a3b2488698e4dbaf0b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArrowPlaceholder.png using Guid(ecd90dff210a3b2488698e4dbaf0b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b9ee4dfc35cc2c32d0c792d9d09c49') in 0.015489 seconds 
+  Import took 0.021685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.294244 seconds.
+  path: Assets/ArrowPlaceholder.asset
+  artifactKey: Guid(c2fa853d839ac1b4a86a1aa878ad20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArrowPlaceholder.asset using Guid(c2fa853d839ac1b4a86a1aa878ad20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33b9af9eb782e28787dd1fa8b2a8998') in 0.002775 seconds 
+  Import took 0.008477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/AxePlaceholder.asset
+  artifactKey: Guid(a1633344c98861b4caa66e80241b19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AxePlaceholder.asset using Guid(a1633344c98861b4caa66e80241b19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6b709377d23dc5d43b12c58543d63a') in 0.007260 seconds 
+  Import took 0.013678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.148849 seconds.
+  path: Assets/AxePlaceholder.png
+  artifactKey: Guid(32d5e3fea7fee064db2a5bbce23c25d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AxePlaceholder.png using Guid(32d5e3fea7fee064db2a5bbce23c25d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36786169bf3c31147e6a68587e732188') in 0.021338 seconds 
+  Import took 0.028813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.147255 seconds.
+  path: Assets/AxePlaceholder.asset
+  artifactKey: Guid(a1633344c98861b4caa66e80241b19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AxePlaceholder.asset using Guid(a1633344c98861b4caa66e80241b19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045931f64ff818fe1cbb12f85baaa746') in 0.002777 seconds 
+  Import took 0.008780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/PickPlaceholder.asset
+  artifactKey: Guid(e83bf9fa649f2034d9fe24cb6f04369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PickPlaceholder.asset using Guid(e83bf9fa649f2034d9fe24cb6f04369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a4a7bab4ab01946862143b351e8120') in 0.007593 seconds 
+  Import took 0.014240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.075110 seconds.
+  path: Assets/PickPlaceholder.png
+  artifactKey: Guid(7ab16e8f3f823844ebc54fdd4d480e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PickPlaceholder.png using Guid(7ab16e8f3f823844ebc54fdd4d480e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5df601d2ac75e6f9dad9971313c137d') in 0.017956 seconds 
+  Import took 0.024426 seconds .
+
